@@ -6,11 +6,11 @@ Drawing penguins with the help of print function in Python
 
 ## Description
 With the help of _print_ function in Python drawing Penguins in one line.
-
 <br/>
+
 ![Penguins](images/penguins.png)
 
-
+<br/>
 ## MIT License
 ## Copyright (c) 2018 Valentyn N Sichkar
 ## github.com/sichkar-valentyn
