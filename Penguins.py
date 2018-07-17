@@ -1,3 +1,17 @@
+# File: Penguins.py
+# Description: Function for modifying lists with remove and count methods
+# Environment: PyCharm and Anaconda environment
+#
+# MIT License
+# Copyright (c) 2018 Valentyn N Sichkar
+# github.com/sichkar-valentyn
+#
+# Reference to:
+# [1] Valentyn N Sichkar. Drawing penguins with the help of print function in Python // GitHub platform [Electronic resource]. URL: https://github.com/sichkar-valentyn/Penguins_with_print_in_Python (date of access: XX.XX.XXXX)
+
+
+
+
 # Implementing the task
 # Showing of desired number of penguins
 
