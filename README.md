@@ -1,9 +1,6 @@
 # Penguins with print in Python
 Drawing penguins with the help of print function in Python
 
-### Courses:
-* Explore the course **"Convolutional Neural Networks for Image Classification"** here: https://stepik.org/course/53801/promo
-
 ### Reference to:
 [1] Valentyn N Sichkar. Drawing penguins with the help of print function in Python // GitHub platform [Electronic resource]. URL: https://github.com/sichkar-valentyn/Penguins_with_print_in_Python (date of access: XX.XX.XXXX)
 
